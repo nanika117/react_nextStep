@@ -1,0 +1,18 @@
+.container {
+  border: solid 2px blue;
+  border-radius: 20px;
+  margin: 0px 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* const titleStyle = {
+//   fontweight: "bold";
+//   backgroundcolor: "#ffff00";
+//   color: "red";
+// }
+// const buttonStyle = {
+//   height: "20px";
+// }
+*/
